@@ -1,4 +1,4 @@
-## run with:
+## instructions:
 
   lein cljx once; lein pdo cljx auto, cljsbuild auto
 
@@ -19,9 +19,9 @@
     with-go: woof woof
 
 
-browsers tested in:
+## browsers tested in:
 
-  Firefox 27.0
-  Chrome 32.0.1700.107
+  * Firefox 27.0
+  * Chrome 32.0.1700.107
 
   
