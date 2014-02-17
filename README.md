@@ -1,19 +1,20 @@
-run with:
+## run with:
 
   lein cljx once; lein pdo cljx auto, cljsbuild auto
 
   open main.html
 
   
-error:
+## error:
 
-  output is:
+###  output is:
 
     without-go: woof woof
     with-go: woof woof
     with-go: unrecognized
 
-  expected output is:
+###  expected output is:
+  
     without-go: woof woof
     with-go: woof woof
 
