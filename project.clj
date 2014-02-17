@@ -7,7 +7,7 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/tools.reader "0.8.4-SNAPSHOT"]
                  [org.clojure/clojurescript "0.0-2156"]
-                 [core.async/core.async "0.1.0-SNAPSHOT"]]
+                 [org.clojure/core.async "0.1.267.0-0d7780-alpha"]]
   :main main
   :repositories {"sonatype-oss-public" "https://oss.sonatype.org/content/groups/public/"}
   :repl-options {:init (use '[clojure.tools.namespace.repl :only (refresh)])}
